@@ -42,7 +42,7 @@ Considering that the [VIZDoom](https://vizdoom.cs.put.edu.pl/) testbed can custo
     <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/arena.png" height="145" alt="innate-values">
     </div>
 
-#### Manually Configure VIZDoom with IVRL Models
+#### Manually Configure IVRL Models in the VIZDoom
 ```
 
 
