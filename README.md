@@ -31,8 +31,8 @@ Considering that the VIZDoom testbed can customize the experiment environment an
 
 > Four Testing Scenarios:
     <div align = center>
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/defend_the_center.png" height="150" alt="innate-values">
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/defend_the_line.png" height="150" alt="innate-values">
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/deadly_corridor.png" height="150" alt="innate-values">
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/arena.png" height="150" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/defend_the_center.png" height="145" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/defend_the_line.png" height="145" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/deadly_corridor.png" height="145" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/arena.png" height="145" alt="innate-values">
     </div>
