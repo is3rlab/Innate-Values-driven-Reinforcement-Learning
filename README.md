@@ -11,8 +11,8 @@ Innate values describe agents' intrinsic motivations, which reflect their inhere
 
 > Psychologic Models:
     <div align = center>
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/0.png" height="280" alt="innate-values">
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/6.png" height="280" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/0.png" height="260" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/6.png" height="260" alt="innate-values">
     </div>
 
 ## Approach Overview
