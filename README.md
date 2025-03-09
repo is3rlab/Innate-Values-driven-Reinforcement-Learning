@@ -21,6 +21,6 @@ We assume that all the AI agents (like robots) interact in the same working scen
 
 > The architecture of the IVRL DQN and Actor-Critic models
     <div align = center>
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/4.png" height="140" alt="innate-values">
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/5.png" height="140" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/4.png" height="145" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/5.png" height="145" alt="innate-values">
     </div>
