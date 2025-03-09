@@ -21,7 +21,7 @@ We assume that all the AI agents (like robots) interact in the same working scen
 > The Proposed IVRL model based on Expected Utility Theory Models:
     <div align = center>
     <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/2.png" height="250" alt="innate-values">
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/3.png" height="180" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/3.png" height="160" alt="innate-values">
     </div>
 
 > The architecture of the IVRL DQN and Actor-Critic models:
