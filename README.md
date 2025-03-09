@@ -27,7 +27,7 @@ We assume that all the AI agents (like robots) interact in the same working scen
 
 ## Evaluation through Simulation Studies
 ### Experiment Setting
-Considering that the VIZDoom testbed can customize the experiment environment and define various utilities based on different tasks and cross-platform, we selected it to evaluate evaluate our IVRL model. We choose four scenarios: Defend the Center, Defend the Line, Deadly Corridor, and Arens, and compare our models with several benchmark algorithms, such as DQN, DDQN, A2C, and PPO. These models were trained on an NVIDIA GeForce RTX 3080Ti GPU with 16 GiB of RAM.
+Considering that the [VIZDoom](https://vizdoom.cs.put.edu.pl/) testbed can customize the experiment environment and define various utilities based on different tasks and cross-platform, we selected it to evaluate evaluate our IVRL model. We choose four scenarios: Defend the Center, Defend the Line, Deadly Corridor, and Arens, and compare our models with several benchmark algorithms, such as DQN, DDQN, A2C, and PPO. These models were trained on an NVIDIA GeForce RTX 3080Ti GPU with 16 GiB of RAM.
 
 > Four Testing Scenarios (Defend the Center, Defend the Line, Deadly Corridor, and Arens):
     <div align = center>
