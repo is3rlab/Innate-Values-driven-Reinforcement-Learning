@@ -41,3 +41,27 @@ Considering that the [VIZDoom](https://vizdoom.cs.put.edu.pl/) testbed can custo
     <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/deadly_corridor.png" height="145" alt="innate-values">
     <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/arena.png" height="145" alt="innate-values">
     </div>
+
+#### Manually Configure VIZDoom with IVRL Models
+```
+
+
+
+
+
+
+```
+
+### Evaluation
+In our experiments, we found that selecting the suitable utilities to consist of the agent innate-values system is critically important for building its reward mechanism, which decides the training speed and sample efficiency. Moreover, the difference in the selected utility might cause some irrelevant experiences to disrupt the learning process, and this perturbation leads to high oscillations of both innate-value rewards and needs weight. 
+
+
+
+
+#### Summary
+The innate value system serves as a unique reward mechanism driving agents to develop diverse actions or strategies satisfying their various needs in the systems. It also builds different personalities and characteristics of agents in their interaction. From the environmental perspective, due to the various properties of the tasks, agents need to adjust their innate value system (needs weights) to adapt to different tasks' requirements. These experiences also shape their intrinsic values in the long term, similar to humans building value systems in their lives.
+
+## Conclusion
+This research introduces a new RL model from individual intrinsic motivations perspectives termed innate-values-driven reinforcement learning (IVRL). It is based on the expected utility theory to model mimicking the complex behaviors of agent interactions in its evolution. By adjusting needs weights in its innate-values system, it can adapt to different tasks representing corresponding characteristics to maximize the rewards efficiently. In other words, through interacting with other agents and environments, the agent builds its unique value system to adapt to them, the same as "Individual is the product of their own environment."
+
+Moreover, in the multi-agent setting, organizing agents with similar interests and innate values in the mission can optimize the group utilities and reduce costs effectively, just like ``Birds of a feather flock together." in human society. Especially combined with AI agents' capacity to aid decision-making, it will open up new horizons in human-multi-agent collaboration. This potential is crucially essential in the context of interactions between human agents and intelligent agents when considering establishing stable and reliable relationships in their cooperation, particularly in adversarial and rescue mission environments.
