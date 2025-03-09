@@ -9,3 +9,12 @@ Innate values describe agents' intrinsic motivations, which reflect their inhere
     <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/0.png" height="180" alt="innate-values">
     <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/gre.png" height="180" alt="innate-values">
     </div>
+
+## Approach Overview
+We assume that all the AI agents (like robots) interact in the same working scenario, and their external environment includes all the other group members and mission setting. In contrast, the internal environment consists of individual perception components including various sensors (such as Lidar and camera), the critic module involving intrinsic motivation analysis and innate values generation, the RL brain making the decision based on the feedback of rewards and description of the current state (including internal and external) from the critic module, and actuators relating to all the manipulators and operators executing the RL brain's decisions as action sequence and strategies.
+
+> The Proposed IVRL model based on Expected Utility Theory Models
+    <div align = center>
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/innate_values_RL_models.pdf" height="360" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/ivrl_model.pdf" height="360" alt="innate-values">
+    </div>
