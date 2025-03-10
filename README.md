@@ -81,4 +81,8 @@ This research introduces a new RL model from individual intrinsic motivations pe
 Moreover, in the multi-agent setting, organizing agents with similar interests and innate values in the mission can optimize the group utilities and reduce costs effectively, just like "Birds of a feather flock together." in human society. Especially combined with AI agents' capacity to aid decision-making, it will open up new horizons in human-multi-agent collaboration. This potential is crucially essential in the context of interactions between human agents and intelligent agents when considering establishing stable and reliable relationships in their cooperation, particularly in adversarial and rescue mission environments.
 
 ## Acknowledgments
-This work is supported by the [NSF Foundational Research in Robotics (FRR) Award 2348013](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348013&HistoricalAwards=false).
+> This work is supported by the [NSF Foundational Research in Robotics (FRR) Award 2348013](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348013&HistoricalAwards=false).
+    <div align = center>
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/7.png" height="150" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/8.png" height="150" alt="innate-values">
+    </div>
