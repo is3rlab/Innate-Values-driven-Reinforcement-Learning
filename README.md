@@ -55,7 +55,12 @@ Considering that the [VIZDoom](https://vizdoom.cs.put.edu.pl/) testbed can custo
 ### Evaluation
 In our experiments, we found that selecting the suitable utilities to consist of the agent innate-values system is critically important for building its reward mechanism, which decides the training speed and sample efficiency. Moreover, the difference in the selected utility might cause some irrelevant experiences to disrupt the learning process, and this perturbation leads to high oscillations of both innate-value rewards and needs weight. 
 
-
+> The Performance Comparison of IV-DQN and IV-A2C Agents with DQN, DDQN, PPO, and A2C in the VIZDoom:
+    <div align = center>
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/Defend_the_Center.png" height="200" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/dtc_needs_dqn.png" height="200" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/dtc_needs_a2c.png" height="200" alt="innate-values">
+    </div>
 
 
 #### Summary
