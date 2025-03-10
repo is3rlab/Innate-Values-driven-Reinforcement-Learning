@@ -63,6 +63,9 @@ In our experiments, we found that selecting the suitable utilities to consist of
     <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/Defend_the_Line.png" height="190" alt="innate-values">
     <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/dtl_needs_dqn.png" height="190" alt="innate-values">
     <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/dtl_needs_a2c.png" height="190" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/Deadly_Corridor.png" height="190" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/dc_needs_dqn.png" height="190" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/dc_needs_a2c.png" height="190" alt="innate-values">
     </div>
 
 
