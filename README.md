@@ -57,9 +57,9 @@ In our experiments, we found that selecting the suitable utilities to consist of
 
 > The Performance Comparison of IV-DQN and IV-A2C Agents with DQN, DDQN, PPO, and A2C in the VIZDoom:
     <div align = center>
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/Defend_the_Center.png" height="200" alt="innate-values">
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/dtc_needs_dqn.png" height="200" alt="innate-values">
-    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/dtc_needs_a2c.png" height="200" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/Defend_the_Center.png" height="190" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/dtc_needs_dqn.png" height="190" alt="innate-values">
+    <img src="https://github.com/is3rlab/Innate-Values-driven-Reinforcement-Learning/blob/main/figures/dtc_needs_a2c.png" height="190" alt="innate-values">
     </div>
 
 
